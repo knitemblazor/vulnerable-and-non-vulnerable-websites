@@ -1,0 +1,203 @@
+Data,Label
+">""<IFRAME SRC=""javascript:document.cookie=true;""></IFRAME>",1
+">""<FRAMESET><FRAME SRC=""javascript:document.cookie=true;""></FRAMESET>",1
+">""<TABLE BACKGROUND=""javascript:document.cookie=true;"">",1
+">""<TABLE><TD BACKGROUND=""javascript:document.cookie=true;"">",1
+">""<DIV STYLE=""background-image: url(javascript:document.cookie=true;)"">",1
+">""<DIV STYLE=""background-image: url(&#1;javascript:document.cookie=true;)"">",1
+">""<DIV STYLE=""width: expression(document.cookie=true);"">",1
+">""<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>",1
+">""<IMG STYLE=""CrossSiteScripting:expr/*CrossSiteScripting*/ession(document.cookie=true)"">",1
+">""<CrossSiteScripting STYLE=""CrossSiteScripting:expression(document.cookie=true)""> ",1
+">""exp/*<A STYLE='no\CrossSiteScripting:noCrossSiteScripting(""*//*"");CrossSiteScripting:ex/*CrossSiteScripting*//*/*/pression(document.cookie=true)'> ",1
+">""<STYLE TYPE=""text/javascript"">document.cookie=true;</STYLE> ",1
+">""<STYLE>.CrossSiteScripting{background-image:url(""javascript:document.cookie=true"");}</STYLE><A CLASS=CrossSiteScripting></A> ",1
+">""<STYLE type=""text/css"">BODY{background:url(""javascript:document.cookie=true"")}</STYLE> ",1
+">""<SCRIPT>document.cookie=true;</SCRIPT>",1
+">""<BASE HREF=""javascript:document.cookie=true;//"">",1
+">""<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></OBJECT>",1
+">""<XML ID=I><X><C><![CDATA[<IMG SRC=""javas]]<![CDATA[cript:document.cookie=true;"">]]</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>",1
+">""<XML ID=""CrossSiteScripting""><I><B><IMG SRC=""javas<!-- -->cript:document.cookie=true""></B></I></XML><SPAN DATASRC=""#CrossSiteScripting"" DATAFLD=""B"" DATAFORMATAS=""HTML""></SPAN>",1
+">""<HTML><BODY><?xml:namespace prefix=""t"" ns=""urn:schemas-microsoft-com:time""><?import namespace=""t"" implementation=""#default#time2""><t:set attributeName=""innerHTML"" to=""CrossSiteScripting<SCRIPT DEFER>document.cookie=true</SCRIPT>""></BODY></HTML>",1
+">""<? echo('<SCR)';echo('IPT>document.cookie=true</SCRIPT>'); ?>",1
+">""<HEAD><META HTTP-EQUIV=""CONTENT-TYPE"" CONTENT=""text/html; charset=UTF-7""> </HEAD>+ADw-SCRIPT+AD4-document.cookie=true;+ADw-/SCRIPT+AD4-",1
+">""<a href=""javascript#document.cookie=true;"">",1
+">""<div onmouseover=""document.cookie=true;"">",1
+">""<img src=""javascript:document.cookie=true;"">",1
+">""<img dynsrc=""javascript:document.cookie=true;"">",1
+">""<input type=""image"" dynsrc=""javascript:document.cookie=true;"">",1
+">""<bgsound src=""javascript:document.cookie=true;"">",1
+">""&<script>document.cookie=true;</script> ",1
+">""&{document.cookie=true;}; ",1
+">""<img src=&{document.cookie=true;};> ",1
+">""<link rel=""stylesheet"" href=""javascript:document.cookie=true;""> ",1
+">""<img src=""mocha:document.cookie=true;""> ",1
+">""<img src=""livescript:document.cookie=true;""> ",1
+">""<a href=""about:<script>document.cookie=true;</script>""> ",1
+">""<body onload=""document.cookie=true;""> ",1
+">""<div style=""background-image: url(javascript:document.cookie=true;);""> ",1
+">""<div style=""behaviour: url([link to code]);""> ",1
+">""<div style=""binding: url([link to code]);""> ",1
+">""<div style=""width: expression(document.cookie=true;);"">",1
+">""<style type=""text/javascript"">document.cookie=true;</style>",1
+">""<object classid=""clsid:..."" codebase=""javascript:document.cookie=true;"">",1
+">""<style><!--</style><script>document.cookie=true;//--></script>",1
+">""<<script>document.cookie=true;</script>",1
+">""<script>document.cookie=true;//--></script>",1
+">""<!-- -- --><script>document.cookie=true;</script><!-- -- -->",1
+">""<img src=""blah""onmouseover=""document.cookie=true;"">",1
+">""<img src=""blah>"" onmouseover=""document.cookie=true;"">",1
+">""<xml src=""javascript:document.cookie=true;"">",1
+">""<xml id=""X""><a><b><script>document.cookie=true;</script>;</b></a></xml>",1
+">""<div datafld=""b"" dataformatas=""html"" datasrc=""#X""></div> ]]>  [\xC0][\xBC]script>document.cookie=true;[\xC0][\xBC]/script>",1
+"-1<meta http-equiv=""refresh"" content=""0;url=javascript:document.cookie=true;"">",1
+"-1<META HTTP-EQUIV=""Set-Cookie"" Content=""USERID=<SCRIPT>document.cookie=true</SCRIPT>"">",1
+-1<SCRIPT>document.cookie=true;</SCRIPT>,1
+"-1<IMG SRC=""jav ascript:document.cookie=true;"">",1
+"-1<IMG SRC=""javascript:document.cookie=true;"">",1
+"-1<IMG SRC="" &#14; javascript:document.cookie=true;"">",1
+"-1<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=document.cookie=true;>",1
+-1<SCRIPT>document.cookie=true;//<</SCRIPT>,1
+-1<SCRIPT <B>document.cookie=true;</SCRIPT>,1
+"-1<IMG SRC=""javascript:document.cookie=true;"">",1
+"-1<iframe src=""javascript:document.cookie=true;> ",1
+-1<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT> ,1
+-1</TITLE><SCRIPT>document.cookie=true;</SCRIPT>,1
+"-1<INPUT TYPE=""IMAGE"" SRC=""javascript:document.cookie=true;"">",1
+"-1<BODY BACKGROUND=""javascript:document.cookie=true;"">",1
+-1<BODY ONLOAD=document.cookie=true;>,1
+"-1<IMG DYNSRC=""javascript:document.cookie=true;"">",1
+"-1<IMG LOWSRC=""javascript:document.cookie=true;"">",1
+"-1<BGSOUND SRC=""javascript:document.cookie=true;"">",1
+"-1<BR SIZE=""&{document.cookie=true}"">",1
+"-1<LAYER SRC=""javascript:document.cookie=true;""></LAYER>",1
+"-1<LINK REL=""stylesheet"" HREF=""javascript:document.cookie=true;"">",1
+"-1<STYLE>li {list-style-image: url(""javascript:document.cookie=true;"");</STYLE><UL><LI>CrossSiteScripting ",1
+-1�script�document.cookie=true;�/script� ,1
+"-1<IFRAME SRC=""javascript:document.cookie=true;""></IFRAME>",1
+"-1<FRAMESET><FRAME SRC=""javascript:document.cookie=true;""></FRAMESET>",1
+"-1<TABLE BACKGROUND=""javascript:document.cookie=true;"">",1
+"-1<TABLE><TD BACKGROUND=""javascript:document.cookie=true;"">",1
+"-1<DIV STYLE=""background-image: url(javascript:document.cookie=true;)"">",1
+"-1<DIV STYLE=""background-image: url(&#1;javascript:document.cookie=true;)"">",1
+"-1<DIV STYLE=""width: expression(document.cookie=true);"">",1
+-1<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>,1
+"-1<IMG STYLE=""CrossSiteScripting:expr/*CrossSiteScripting*/ession(document.cookie=true)"">",1
+"-1<CrossSiteScripting STYLE=""CrossSiteScripting:expression(document.cookie=true)""> ",1
+"-1exp/*<A STYLE='no\CrossSiteScripting:noCrossSiteScripting(""*//*"");CrossSiteScripting:ex/*CrossSiteScripting*//*/*/pression(document.cookie=true)'> ",1
+"-1<STYLE TYPE=""text/javascript"">document.cookie=true;</STYLE> ",1
+"-1<STYLE>.CrossSiteScripting{background-image:url(""javascript:document.cookie=true"");}</STYLE><A CLASS=CrossSiteScripting></A> ",1
+"-1<STYLE type=""text/css"">BODY{background:url(""javascript:document.cookie=true"")}</STYLE> ",1
+-1<SCRIPT>document.cookie=true;</SCRIPT>,1
+"-1<BASE HREF=""javascript:document.cookie=true;//"">",1
+-1<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></OBJECT>,1
+"-1<XML ID=I><X><C><![CDATA[<IMG SRC=""javas]]<![CDATA[cript:document.cookie=true;"">]]</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>",1
+"-1<XML ID=""CrossSiteScripting""><I><B><IMG SRC=""javas<!-- -->cript:document.cookie=true""></B></I></XML><SPAN DATASRC=""#CrossSiteScripting"" DATAFLD=""B"" DATAFORMATAS=""HTML""></SPAN>",1
+"-1<HTML><BODY><?xml:namespace prefix=""t"" ns=""urn:schemas-microsoft-com:time""><?import namespace=""t"" implementation=""#default#time2""><t:set attributeName=""innerHTML"" to=""CrossSiteScripting<SCRIPT DEFER>document.cookie=true</SCRIPT>""></BODY></HTML>",1
+-1<? echo('<SCR)';echo('IPT>document.cookie=true</SCRIPT>'); ?>,1
+"-1<HEAD><META HTTP-EQUIV=""CONTENT-TYPE"" CONTENT=""text/html; charset=UTF-7""> </HEAD>+ADw-SCRIPT+AD4-document.cookie=true;+ADw-/SCRIPT+AD4-",1
+"-1<a href=""javascript#document.cookie=true;"">",1
+"-1<div onmouseover=""document.cookie=true;"">",1
+"-1<img src=""javascript:document.cookie=true;"">",1
+"<li><a href=""https://retail.onlinesbi.com/preretail/prelogineLockerInitial.htm"">Online Locker Enquiry</a></li>",0
+"<li><a href=""https://kerala.gov.in/home"" rel=""_blank"" target=""_blank"">Donate - Kerala Floods</a></li>",0
+"<li><a href=""https://retail.onlinesbi.com/retail/registeremailprelogininitial.htm"" target=""_blank"">Register / Update your E-Mail ID</a></li>",0
+"<li><a href=""https://retail.onlinesbi.com/las/loanagainstsharesinit.htm"" target=""_blank"">Loan Against Shares</a></li>",0
+</ul>,0
+"<div class=""col-md-12 col-lg-12 col-sm-12 row"">",0
+"<div class=""col-md-4 col-sm-4 col-xs-6 logo"">",0
+"<a href=""http://www.sbi.co.in/"" title=""Logo"" id=""logo"" rel=""external"">&nbsp;</a>",0
+"<div class=""col-md-4 col-sm-4 useful_link text-center hidden-xs"">",0
+"<a href=""javascript:void(0);"" title=""Netbanking Branches"" class=""netbanking_button"">&nbsp;</a>",0
+"<div class=""col-md-4 col-sm-4 col-xs-6 useful_link_mob text-center hidden-md hidden-lg visible-xs"">",0
+"<a href=""javascript:void(0);"" title=""Netbanking Branches"" class=""netbanking_button pull-right"">&nbsp;</a>",0
+</div>,0
+"<div class=""col-md-4 col-sm-4 hidden-xs pull-right"">",0
+"<div class=""osbi_logo"">",0
+"<span id=""osbi_logo"">&nbsp;</span>",0
+"<div class=""row"" id=""navigation"">",0
+"<nav class=""navbar navbar-expand-md navbar-default osbinav"">",0
+"<div class=""navbar-header"">",0
+"<button type=""button"" class=""navbar-toggle collapsed"" data-toggle=""collapse"" data-target=""#navbar"" aria-expanded=""false"" aria-controls=""navbar"">",0
+"<span class=""sr-only"">Toggle navigation</span>",0
+"<span class=""icon-bar""></span>",0
+"<span class=""icon-bar""></span>",0
+"<span class=""icon-bar""></span>",0
+</button>,0
+</div>,0
+"<div id=""navbar"" class=""navbar-collapse collapse"">",0
+"<ul class=""nav navbar-nav maintxt"" id=""primary_navigation"">",0
+"<li class=""""><a href=""#"">Services <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://retail.onlinesbi.com/personal/"">Personal Internet Banking</a></li>",0
+"<li><a href=""https://corp.onlinesbi.com/corporate/"">Corporate Internet Banking</a></li>",0
+"<li><a href=""https://mab.sbi.co.in/"">Merchant Acquiring Business - POS</a></li>",0
+"<li><a href=""https://retail.onlinesbi.com/personal/tax_retail.html"" target=""_blank"" class=""void_border"">Online Tax / Payment / Receipt / Challan printing</a></li>",0
+</ul>,0
+</li>,0
+"<li class="""">",0
+"<a href=""#"">SB Anywhere <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://mobility.onlinesbi.com/sbf_saral.html"" rel=""_blank"">SBA Saral</a></li>",0
+"<li><a href=""https://mobility.onlinesbi.com/sbf_retail.html"" rel=""_blank"">SBA Personal</a></li>",0
+"<li><a href=""https://mobility.onlinesbi.com/sbf_corporate.html"" rel=""_blank"" class=""void_border"">SBA Corporate</a></li>",0
+</ul>,0
+</li>,0
+<li>,0
+"<a href=""#"">FAQ <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://retail.onlinesbi.com/personal/faq.html"">Personal Banking FAQ</a></li>",0
+"<li><a href=""https://corp.onlinesbi.com/corporate/sbi/corp_faq.html"">Corporate Banking FAQ</a></li>",0
+"<li><a href=""https://m.onlinesbi.com/sbijava/mobile/sbf_faq.html"">State Bank Anywhere FAQ</a></li>",0
+"<li><a href=""https://m.onlinesbi.com/sbijava/mobile/sbsecure_otp_app_faq.html"">State Bank Secure OTP App</a></li>",0
+"<li class=""mergerFAQ""><a href=""#"">Merger FAQ<span class=""caret""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""sbijava/mergerfaq/merger_rinb_faq.html"">Personal Banking FAQ</a></li>",0
+"<li><a href=""sbijava/mergerfaq/merger_cinb_faq.html"">Corporate Banking FAQ</a></li>",0
+"<li><a href=""sbijava/mergerfaq/merger_merchant_faq.html"">Merchant Transaction FAQ</a></li>",0
+"<li><a href=""sbijava/mergerfaq/merger_collect_faq.html"">SB Collect FAQ</a></li>",0
+"<li class=""registrationFAQ""><a href=""sbijava/mergerfaq/bmb_faq.pdf"" class=""void_border"">BMB Customers Registration FAQ<span class=""caret""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://www.youtube.com/watch?v=36bAHHPNBQE&index=3&list=PLTk1uQ-djuiY09xDZggqfvBaMyKkBxJL2"" class=""void_border"" target=""_blank"">Self-Registration Help Video</a></li>",0
+</ul>,0
+</li>,0
+"<li class=""dropdown"">",0
+"<a href=""#"">SBMOPS<img src=""sbijava/images/new_blink.gif"" alt=""New"" /> <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://merchant.onlinesbi.com/mopsprelogin/mopsremittanceform.htm"" target=""_blank"">MOPS Branch Challan(CP)/Reprint Remittance Form</a></li>",0
+"<li><a href=""https://merchant.onlinesbi.com/mopsprelogin/mopsBilldeskCancelTransaction.htm"" target=""_blank"">MOPS For Cancel RTGS/NEFT/BRANCH Transactions (CP)</a></li>",0
+"<li><a href=""https://merchant.onlinesbi.com/mopsprelogin/mopsRtgsNeftChallanDownload.htm"" target=""_blank"">MOPS RTGS-NEFT PAP Challan Reprint Form (CP)</a></li>",0
+"<li><a href=""https://retail.onlinesbi.com/personal/tax_retail.html"" target=""_blank"" class=""void_border"">Online Tax / Payment / Receipt / Challan printing</a></li>",0
+</ul>,0
+</li>,0
+"<li><a href=""https://www.onlinesbi.com/sbicollect/icollecthome.htm"">SB Collect</a></li>",0
+"<li class=""dropdown"">",0
+"<a href=""#"">Electoral Bond<img src=""sbijava/images/new_blink.gif"" alt=""New"" /> <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a data-toggle=""modal"" data-target=""#electoralBondModal"" >Information / Downloads</a></li>",0
+"<li><a href=""https://merchant.onlinesbi.com/mopsprelogin/initiateelectroralbond.htm"" target=""_blank"">Remittance</a></li>",0
+"<li><a href=""https://merchant.onlinesbi.com/mopsprelogin/initiateelebondenquiry.htm"" target=""_blank"" class=""void_border"">Print / Reprint Receipt</a></li>",0
+"<li><a data-toggle=""modal"" data-target=""#videoListModal"" id=""video_tab"">Videos</a></li>",0
+"<li><a href=""https://retail.onlinesbi.com/retail/mcashclaimwin.htm?bankCode=0"">mCash</a></li>",0
+"<li class="""">",0
+"<a href=""#"">Apply SB Account <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"" id=""sub-menu"">",0
+<li>,0
+"<a href=""#"">for Resident Individuals <span class=""caret""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""javascript:void(0);"" onclick=""salaryClick();"">Salary Account</a></li>",0
+"<li><a href=""https://www.sbiyono.sbi/wps/portal/accountopening/home#!/customeraccountOpen"">Digital Saving Account (Regular SB Account)</a></li>",0
+"<li><a href=""https://oaa.onlinesbi.com/sao/onlineaccapp.htm"" class=""void_border"">Small SB Account</a></li>",0
+</ul>,0
+</li>,0
+"<li><a href=""https://oaa.onlinesbi.com/oaonri/onlineaccapp.htm"" class=""void_border"">for NRE/NRO</a></li>",0
+</ul>,0
+</li>,0
+"<li class="""">",0
+"<a href=""#"">NPS<img src=""sbijava/images/new_blink.gif"" alt=""New""/> <span class=""caret hidden-lg hidden-md""></span></a>",0
+"<ul class=""dropdown-menu"">",0
+"<li><a href=""https://retail.onlinesbi.com/npscorp/npsCorporateRegistration.htm"">Corporate Employee Registration</a></li>",0
+</ul>,0
+</li>,0
+"<li class=""dropdown"">",0
+"<a href=""#"">Bill Pay<span class=""caret hidden-lg hidden-md""></span></a>",0
