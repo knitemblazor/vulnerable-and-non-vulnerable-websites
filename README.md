@@ -1,4 +1,4 @@
-# vulnerable-and-non-vulnerable-websites
+# vulnerable-and-non-vulnerable-websites (Deprecated)
 ## Classification task using KNN classifier
 #### The repo includes the following:
 
